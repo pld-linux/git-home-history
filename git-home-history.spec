@@ -9,6 +9,7 @@ Source0:	https://github.com/jeanfric/git-home-history/archive/master/%{name}-%{v
 # Source0-md5:	3b55c3ceadc45dc5c1bd70b8d1861f2a
 URL:		http://heimdalsgata.com/jeanfric/ghh/
 BuildRequires:	asciidoc
+BuildRequires:	docbook-dtd45-xml
 BuildRequires:	gnome-common
 BuildRequires:	gnome-doc-utils
 BuildRequires:	gtk+2-devel
